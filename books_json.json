@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "title": "Successful Advertising",
+    "description": "Başarılı reklamcılık, hedef kitleye doğru mesajı ulaştırma sanatıdır. Bu kitap, reklamcılığın temellerini, stratejilerini ve pratikte nasıl uygulanacağını detaylı bir şekilde ele alıyor. Modern reklamcılığın temel taşlarını öğrenmek isteyenler için kapsamlı bir rehber.",
+    "imageUrl": "https://github.com/Zeynepzbk/KitapData/blob/main/Kitap1.jpg",
+    "author": "John Doe",
+    "price": "45.99"
+  },
+  {
+    "id": "2",
+    "title": "The Raven",
+    "description": "Edgar Allan Poe'nun en bilinen eserlerinden biri olan 'The Raven', karanlık ve melankolik bir atmosferde geçen şiirsel bir anlatıdır. Hikaye, kaybolan bir aşkın derin kederi içerisinde kaybolmuş bir adamın, gece yarısı kapısında beliren gizemli bir kuzgunla olan karşılaşmasını anlatır.",
+    "imageUrl": "https://github.com/Zeynepzbk/KitapData/blob/main/Kitap2.jpg",
+    "author": "Edgar Allan Poe",
+    "price": "19.99"
+  },
+  {
+    "id": "3",
+    "title": "The Windfairies",
+    "description": "Rüzgarın fısıldadığı masalsı bir dünyanın kapılarını aralayan bu hikaye, doğanın derinliklerinde yaşayan esrarengiz perilerin maceralarını anlatıyor. Her sayfasında gizem ve büyü barındıran bu eser, okuyucuyu fantastik bir serüvene davet ediyor.",
+    "imageUrl": "https://github.com/Zeynepzbk/KitapData/blob/main/Kitap3.jpg",
+    "author": "Jane Austen",
+    "price": "29.99"
+  },
+  {
+    "id": "4",
+    "title": "Çiçeklerin Sırları",
+    "description": "Bir bahçedeki çiçeklerin aslında sakladıkları pek çok sır var. Bu kitap, her çiçeğin ardında yatan özel hikayeleri ve duyguları gözler önüne seriyor. Çiçeklerin diliyle insan ruhuna dokunan, duygusal ve derin bir anlatı sunuyor.",
+    "imageUrl": "https://raw.githubusercontent.com/Zeynepzbk/KitapData/main/Kitap4.webp",
+    "author": "Zeynep Yılmaz",
+    "price": "24.99"
+  },
+  {
+    "id": "5",
+    "title": "Dante",
+    "description": "Dante'nin İlahi Komedya'sı, edebiyat dünyasında en önemli başyapıtlardan biridir. Cehennem, Araf ve Cennet yolculuğu boyunca insanın ruhani arayışını ve ahlaki derslerini ele alan bu destansı eser, insanın iç dünyasına derin bir yolculuk sunuyor.",
+    "imageUrl": "https://github.com/Zeynepzbk/KitapData/blob/main/Kitap5.jpg",
+    "author": "Dante Alighieri",
+    "price": "39.99"
+  },
+  {
+    "id": "6",
+    "title": "Dracula",
+    "description": "Bram Stoker'ın klasikleşmiş eseri 'Dracula', Gotik edebiyatın en bilinen örneklerinden biridir. Transilvanya'nın karanlık şatolarında başlayan hikaye, kan emici vampirlerin dünyasına kapı aralıyor. Dracula'nın dehşet dolu hikayesi, okuyucuyu korku ve gerilim dolu bir maceraya sürüklüyor.",
+    "imageUrl": "https://github.com/Zeynepzbk/KitapData/blob/main/Kitap6.jpg",
+    "author": "Bram Stoker",
+    "price": "34.99"
+  },
+  {
+    "id": "7",
+    "title": "Fairytales",
+    "description": "Hans Christian Andersen'ın klasikleşmiş masalları, hem çocuklar hem de yetişkinler için unutulmaz dersler sunuyor. Her biri farklı bir dünyada geçen bu masallar, sevgi, fedakarlık ve cesaret temalarını işleyerek insan ruhuna dokunuyor.",
+    "imageUrl": "https://github.com/Zeynepzbk/KitapData/blob/main/Kitap7.jpg",
+    "author": "Hans Christian Andersen",
+    "price": "27.99"
+  },
+  {
+    "id": "8",
+    "title": "Shelley",
+    "description": "Romantik dönemin önde gelen şairlerinden Percy Bysshe Shelley'nin şiirleri, doğa, aşk ve özgürlük temalarını işler. Bu kitap, Shelley'nin en bilinen eserlerini bir araya getiriyor ve okuyucuya onun dünyasına dair derin bir bakış sunuyor.",
+    "imageUrl": "https://github.com/Zeynepzbk/KitapData/blob/main/Kitap8.jpg",
+    "author": "Percy Bysshe Shelley",
+    "price": "32.99"
+  },
+  {
+    "id": "9",
+    "title": "Redburn",
+    "description": "Herman Melville'in otobiyografik eseri 'Redburn', genç bir denizcinin hayatını anlatıyor. Denizdeki zorluklar ve hayatta kalma mücadelesi üzerine yoğunlaşan bu hikaye, genç bir adamın kendini bulma serüvenini gözler önüne seriyor.",
+    "imageUrl": "https://github.com/Zeynepzbk/KitapData/blob/main/Kitap9.jpg",
+    "author": "Herman Melville",
+    "price": "31.50"
+  }
+]
