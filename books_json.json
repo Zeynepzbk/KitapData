@@ -7,13 +7,13 @@
     "author": "John Doe",
     "price": "45.99"
   },
-  {
+   {
     "id": "2",
-    "title": "The Raven",
-    "description": "Edgar Allan Poe'nun en bilinen eserlerinden biri olan 'The Raven', karanlık ve melankolik bir atmosferde geçen şiirsel bir anlatıdır. Hikaye, kaybolan bir aşkın derin kederi içerisinde kaybolmuş bir adamın, gece yarısı kapısında beliren gizemli bir kuzgunla olan karşılaşmasını anlatır.",
-    "imageUrl": "https://raw.githubusercontent.com/Zeynepzbk/KitapData/main/Kitap2.webp",
-    "author": "Edgar Allan Poe",
-    "price": "19.99₺"
+    "title": "Shelley",
+    "description": "Romantik dönemin önde gelen şairlerinden Percy Bysshe Shelley'nin şiirleri, doğa, aşk ve özgürlük temalarını işler. Bu kitap, Shelley'nin en bilinen eserlerini bir araya getiriyor ve okuyucuya onun dünyasına dair derin bir bakış sunuyor.",
+    "imageUrl": "https://raw.githubusercontent.com/Zeynepzbk/KitapData/main/Kitap8.webp",
+    "author": "Percy Bysshe Shelley",
+    "price": "32.99₺"
   },
   {
     "id": "3",
@@ -55,13 +55,13 @@
     "author": "Hans Christian Andersen",
     "price": "27.99₺"
   },
-  {
+   {
     "id": "8",
-    "title": "Shelley",
-    "description": "Romantik dönemin önde gelen şairlerinden Percy Bysshe Shelley'nin şiirleri, doğa, aşk ve özgürlük temalarını işler. Bu kitap, Shelley'nin en bilinen eserlerini bir araya getiriyor ve okuyucuya onun dünyasına dair derin bir bakış sunuyor.",
-    "imageUrl": "https://raw.githubusercontent.com/Zeynepzbk/KitapData/main/Kitap8.webp",
-    "author": "Percy Bysshe Shelley",
-    "price": "32.99₺"
+    "title": "The Raven",
+    "description": "Edgar Allan Poe'nun en bilinen eserlerinden biri olan 'The Raven', karanlık ve melankolik bir atmosferde geçen şiirsel bir anlatıdır. Hikaye, kaybolan bir aşkın derin kederi içerisinde kaybolmuş bir adamın, gece yarısı kapısında beliren gizemli bir kuzgunla olan karşılaşmasını anlatır.",
+    "imageUrl": "https://raw.githubusercontent.com/Zeynepzbk/KitapData/main/Kitap2.webp",
+    "author": "Edgar Allan Poe",
+    "price": "19.99₺"
   },
   {
     "id": "9",
